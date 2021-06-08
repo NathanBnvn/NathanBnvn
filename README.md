@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanBnvn
 - 👀 I’m interested in arts, code, culture and new technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Javascript and other cool stuff
 - 💞️ I’m looking to collaborate on enthusiastic and innovative project 
 - 📫 How to reach me ...
 
